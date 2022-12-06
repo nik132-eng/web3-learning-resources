@@ -15,16 +15,16 @@ After all, the original generation's characteristics are still present, but with
 ## Examples of web 3.0
 ## Some examples of web 3.0 are:-
 
-Cryptocurrency
-Blockchain technology
-NFTs (Non-Fungible Tokens)
-ICOs (Initial Coin Offerings)
-Smart contracts
-dApps (Decentralized Apps)
-DAOs (Decentralized Autonomous Organizations)
-Distributed computing
-The Metaverse
-Machine learning
-Artificial intelligence
+- Cryptocurrency
+- Blockchain technology
+- NFTs (Non-Fungible Tokens)
+- ICOs (Initial Coin Offerings)
+- Smart contracts
+- dApps (Decentralized Apps)
+- DAOs (Decentralized Autonomous Organizations)
+- Distributed computing
+- The Metaverse
+- Machine learning
+- Artificial intelligence
 
 
